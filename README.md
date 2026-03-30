@@ -17,4 +17,5 @@
 <iframe src="letna.pdf" width="100%" height="600px"></iframe>
 
 </body>
+<a href="cpp.html">Můj dokument o Letné</a>
 </html>
